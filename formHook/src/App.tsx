@@ -21,7 +21,8 @@ function App() {
     console.log(data);
   };
 
-  console.log(errors, "sou erros fo dorm");
+  const teste = "TESTANDO TUDO CARAAAAAAAAAAAAAAAA";
+
   return (
     <>
       <form
